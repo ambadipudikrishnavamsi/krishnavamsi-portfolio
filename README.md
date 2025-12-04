@@ -1,66 +1,56 @@
-Krishnavamsi Ambadipudi — Data Engineer & IT Support
+Hi, I'm Krishnavamsi Ambadipudi 👋
+Data Engineer | IT Support Engineer | Cloud | Python | SQL | AWS | Automation
 
-👨‍💻 Data Engineering | IT Support | Cloud | Automation | Python | SQL | AWS
+Welcome to my GitHub!
+I work across Data Engineering, IT Support, Cloud, Automation, and Windows Infrastructure.
 
-Welcome to my project portfolio.
-Here I share hands-on projects I built in Data Engineering, Cloud, and IT Support to strengthen my technical skills.
+🔷 🚀 Skills
 
-🔷 Projects
-1. ETL Data Pipeline Automation — AWS + Python
+Programming: Python, SQL, Apex
 
-Built serverless ETL pipeline using AWS Lambda, Glue, S3
+Cloud: AWS (Lambda, S3, Glue, IAM)
 
-Transformed raw data to analytics-ready format
+Data Engineering: ETL, data pipelines, dashboards
 
-Automated daily data refresh
+IT Support: Windows 10/11, BIOS/TPM, BitLocker, networking
 
-Tools: Python, Lambda, Glue, S3, IAM
+Automation: PowerShell scripts, workflow automation
+
+Tools: Tableau, Power BI, Git, CDK Dealer Systems
+
+🔷 📂 Featured Projects
+1. ETL Pipeline Automation — AWS + Python
+
+Automated ingestion → transform → load using AWS Lambda, Glue, and S3.
 
 2. Windows System Build Automation — PowerShell
 
-Automated workstation setup
+Automated workstation configuration for enterprise IT environments.
 
-Configured apps, printers, security settings
+3. Dealer Dashboard — SQL + Python + Power BI
 
-Reduced manual setup time
+KPI dashboard for sales, service, and inventory analytics.
 
-Tools: PowerShell, Windows Admin
+4. Network Monitoring Tool — Python
 
-3. Data Dashboard — SQL + Python + Power BI
+Tracks latency, DNS resolution, and logs issues.
 
-Built dealership-style performance dashboard
+🔷 🧑‍💻 Experience
 
-Created SQL models and automated refresh
+IT Support Engineer / Data Engineer @ Mike Kelly Automotive
 
-Tools: SQL, Python, Power BI
+Data Engineer @ Compleat Technical Solutions
 
-4. Network Performance Monitoring Tool — Python
+Salesforce Developer @ IQ Hector
 
-Measured latency, DNS resolution, packet loss
+Software Developer @ Berm Tech
 
-Logged results
+System Engineer @ Value Labs
 
-Tools: Python, sockets, logging
+🔷 📫 Contact Me
 
-🔷 Experience
+Email: avambadipudirao@gmail.com
 
-IT Support Engineer / Data Engineer — Mike Kelly Automotive
+LinkedIn: https://linkedin.com/in/krishnavamsi-ambadipudi
 
-Data Engineer — Compleat Technical Solutions
-
-Salesforce Developer — IQ Hector
-
-Software Developer — Berm Tech
-
-System Engineer — Value Labs
-
-🔷 Skills
-
-Python • SQL • AWS • Networking • PowerShell • Tableau • Power BI • Data Engineering • CDK Dealer Systems • IT Support • Windows/BIOS/TPM • Automation
-
-🔷 Contact
-
-📧 avambadipudirao@gmail.com
-
-📍 Pittsburgh Metropolitan Area
-🔗 LinkedIn: https://linkedin.com/in/krishnavamsi-ambadipudi
+Location: Pittsburgh Metropolitan Area, PA
